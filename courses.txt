@@ -2,3 +2,5 @@ Introduction to Finance
 Information technology Infrastructure Library
 Basic tools
 Linux
+Python 
+Sql
